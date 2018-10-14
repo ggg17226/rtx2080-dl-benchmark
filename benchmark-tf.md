@@ -16,7 +16,7 @@
 
 ## Test Result  
 #### result unit: images/sec
-#### test by aghost(https://github.com/ggg17226)   Oct 14 2018
+#### test by aghost(https://github.com/ggg17226)  / Oct 14 2018
 
 |Net|batch_size 32|batch_size 64|batch_size 128|
 |:--:|:--:|:--:|:--:|
